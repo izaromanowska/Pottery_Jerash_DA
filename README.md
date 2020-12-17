@@ -1,0 +1,2 @@
+# Pottery_Jerash_DA
+Data analysis of an archaeological dataset. The dataset consists of counts and descriptions of ceramic finds and their chronology at the archaeological site of the Northwest Quarter, Jerash, Jordan. It derives from the Danish-German Jerash Northwest Quarter Project led by. Achim Lichtenberger (University of Munster, Germany) and  Rubina Raja (Aarhus University, Denmark) between 2011-2018.
